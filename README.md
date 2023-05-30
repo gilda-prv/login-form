@@ -1,3 +1,3 @@
 # login-form
 
-![](./img/logo.png)
+![](./img/logo.jpg)
